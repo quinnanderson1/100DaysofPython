@@ -1,2 +1,9 @@
-# 100DaysofPython
-My attempt at Angela Yu's 100 Days of Python Course
+<h1>100 Days of Python</h1>
+
+<h2>Beginner</h2>
+
+<h2>Intermediate</h2>
+
+<h2>Intermediate+</h2>
+
+<h2>Advanced</h2>
