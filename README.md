@@ -2,7 +2,7 @@
 
 <h2>Beginner</h2>
 
-- [Day 1 - Band Name Generator](https://github.com/quinnanderson1/100DaysofPython/blob/main/Day1.py)
+- [Day 1 - Band Name Generator](https://github.com/quinnanderson1/100DaysofPython/blob/main/Day1/Day1.md)
 
 <h2>Intermediate</h2>
 
