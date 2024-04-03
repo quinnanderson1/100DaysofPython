@@ -8,9 +8,12 @@ The goal of today's project is to create a rock-paper-scissors game with ASCII a
     <br />
     <img src="https://i.imgur.com/LfTkAac.png" height="60%" width="60%" alt="Coin Flipper"/>
     <br />
+    <br />
     <img src="https://i.imgur.com/EHLfZE2.png" height="60%" width="60%" alt="Banker Roulette"/>
     <br />
+    <br />
     <img src="https://i.imgur.com/rSflaDt.png" height="60%" width="60%" alt="Easy Treasure Map"/>
+    <br />
     <br />
     <img src="https://i.imgur.com/1YBCQPp.png" height="60%" width="60%" alt="Treasure Map Challenge"/>
 </p>
