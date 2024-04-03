@@ -8,6 +8,7 @@ I am challenging myself to complete Angela Yu's "100 Days of Python" online cour
 - [Day 2 - Tip Calculator](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day2/Day2.md)
 - [Day 3 - Choose Your Own Adventure](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day3/Day3.md)
 - [Day 4 - Rock-Paper-Scissors and other Challenges](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day4/Day4.md)
+- [Day 5 - Random Password Generator, FizzBuzz, and other Challenges](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day5/Day5.md)
 
 <h2>Intermediate</h2>
 
