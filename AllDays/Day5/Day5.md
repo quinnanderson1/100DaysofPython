@@ -8,5 +8,6 @@ The goal of today's project is to create a random password generator. There are 
     <br />
     <img src="https://i.imgur.com/nwwrZvu.png" height="60%" width="60%" alt="PyPass #2"/>
     <br />
+    <br />
     <img src="https://i.imgur.com/xOlei73.png" height="60%" width="60%" alt="FizzBuzz"/>
 </p>
