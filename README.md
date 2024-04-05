@@ -10,6 +10,7 @@ I am challenging myself to complete Angela Yu's "100 Days of Python" online cour
 - [Day 4 - Rock-Paper-Scissors and other Challenges](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day4/Day4.md)
 - [Day 5 - Random Password Generator, FizzBuzz, and other Challenges](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day5/Day5.md)
 - [Day 6 - Reeborg's Challenges](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day6/Day6.md)
+- [Day 7 - Hangman](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day7/Day7.md)
 
 <h2>Intermediate</h2>
 
