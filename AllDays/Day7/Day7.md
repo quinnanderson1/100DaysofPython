@@ -11,3 +11,4 @@ The goal of today's project was to create a hangman game in the command-line! Wh
     <br />
     <img src="https://i.imgur.com/PonzAM7.png" height="60%" width="60%" alt="Maze Algorithm"/>
 </p>
+
