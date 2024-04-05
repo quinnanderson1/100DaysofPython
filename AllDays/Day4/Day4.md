@@ -1,4 +1,4 @@
-<h1>Day 4</h1>
+<h1>Day 4 - Rock-Paper-Scissors and other Challenges</h1>
 The goal of today's project is to create a rock-paper-scissors game with ASCII art. I also took on four additional challenges in the form of a coin flipper, a banker roulette game, and two variations of a treasure map program (one with a fixed size and one with a variable size). The variable-sized treasure map program was definitely the highlight of the day, and while it wasn't required by the course, I wanted to challenge myself!
 <br />
 <br />
