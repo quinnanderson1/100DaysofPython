@@ -13,6 +13,7 @@ I am challenging myself to complete Angela Yu's "100 Days of Python" online cour
 - [Day 7 - Hangman](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day7/Day7.md)
 - [Day 8 - Caesar Cipher](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day8/Day8.md)
 - [Day 9 - Silent Auction](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day9/Day9.md)
+- [Day 10 - PyCalc, 4-Function Calculator](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day10/Day10.md)
 
 <h2>Intermediate</h2>
 
