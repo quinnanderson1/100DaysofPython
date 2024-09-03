@@ -1,6 +1,4 @@
-<h1>100 Days of Python</h1>
-
-<h2>Beginner</h2>
+<h1>10 Days of Python</h1>
 
 - [Day 1 - Band Name Generator](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day1/Day1.md)
 - [Day 2 - Tip Calculator](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day2/Day2.md)
@@ -12,9 +10,3 @@
 - [Day 8 - Caesar Cipher](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day8/Day8.md)
 - [Day 9 - Silent Auction](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day9/Day9.md)
 - [Day 10 - PyCalc, 4-Function Calculator](https://github.com/quinnanderson1/100DaysofPython/blob/main/AllDays/Day10/Day10.md)
-
-<h2>Intermediate</h2>
-
-<h2>Intermediate+</h2>
-
-<h2>Advanced</h2>
